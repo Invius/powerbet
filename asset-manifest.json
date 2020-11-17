@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/powerbet/static/css/main.bd7bcf54.chunk.css",
+    "main.js": "/powerbet/static/js/main.8d9206ba.chunk.js",
+    "main.js.map": "/powerbet/static/js/main.8d9206ba.chunk.js.map",
+    "runtime-main.js": "/powerbet/static/js/runtime-main.003158be.js",
+    "runtime-main.js.map": "/powerbet/static/js/runtime-main.003158be.js.map",
+    "static/js/2.bdc4a500.chunk.js": "/powerbet/static/js/2.bdc4a500.chunk.js",
+    "static/js/2.bdc4a500.chunk.js.map": "/powerbet/static/js/2.bdc4a500.chunk.js.map",
+    "index.html": "/powerbet/index.html",
+    "precache-manifest.7a5c5170dd50349e7deeedf484d892fb.js": "/powerbet/precache-manifest.7a5c5170dd50349e7deeedf484d892fb.js",
+    "service-worker.js": "/powerbet/service-worker.js",
+    "static/css/main.bd7bcf54.chunk.css.map": "/powerbet/static/css/main.bd7bcf54.chunk.css.map",
+    "static/js/2.bdc4a500.chunk.js.LICENSE.txt": "/powerbet/static/js/2.bdc4a500.chunk.js.LICENSE.txt",
+    "static/media/fire.png": "/powerbet/static/media/fire.7ed32125.png",
+    "static/media/me.png": "/powerbet/static/media/me.92d20dd0.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.003158be.js",
+    "static/js/2.bdc4a500.chunk.js",
+    "static/css/main.bd7bcf54.chunk.css",
+    "static/js/main.8d9206ba.chunk.js"
+  ]
+}
